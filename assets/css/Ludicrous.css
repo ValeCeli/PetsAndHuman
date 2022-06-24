@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'Ludicrous';
+	src: url(../../assets/fonts/Ludicrous.woff2) format('woff2'),
+	url(../../assets/fonts/Ludicrous.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
